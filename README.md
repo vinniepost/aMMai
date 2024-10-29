@@ -1,4 +1,5 @@
 # aMMai
+got
 To run aMMai, install the requirements and run the main.py file.
 ```bash
 pip install -r requirements.txt
@@ -13,3 +14,8 @@ When running the file with the following image you get the following output:
 <|startoftext|>Description: a plane taking off from an airport runway. Expand with more details: - The first line of the title can be selected in text or by pressing space on any screen and then selecting it at its appropriate position (or "first", if you want to choose other options). If multiple lines are specified, all remaining characters must end there; for example , .
 The main sequence is also available as short-codes that specify either one single character per sentence which
 ```
+
+## Contributors
+
+- [Vinnie Post](github.com/vinniepost)
+- [Lander Van der Stighelen](https://github.com/bazaaer)
